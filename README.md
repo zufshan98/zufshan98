@@ -27,6 +27,7 @@ Here are a few simple projects to showcase my learning so far:
 ## 📚 Certificates Earned
 - HTML Certificate – *Complete Coding by Prashant Sir*  
 - CSS Certificate – *Complete Coding by Prashant Sir*
+- Postman API Fundamentals Student Expert – *Postman*
 
 ---
 
